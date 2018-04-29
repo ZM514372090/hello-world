@@ -1,0 +1,11 @@
+@charset "utf-8";
+content{width:1000px;}
+body{ width:1000px; margin: 0 auto; background-color: antiquewhite;}/* CSS Docu
+ment */
+h1{width:990px; height: 80px; background-color: #A09898; line-height: 80px; padding-left: 10px; margin: 0 auto;}
+.jbxx{width:1000px;height: 150px;line-height: 150px; margin: 0 auto;}
+.left{width:150px; height: 149px; background-color:#B5B5B5; float: left;border-style: solid; border-width:  0 0 1px 0; border-color: #D3CECF;}
+.left p{ line-height: 148px; text-align: center; margin: auto;}
+.reigt{ width:849px; height: 149px; background-color:#D3CECF; float: left; border-style: solid; border-width: 0 1px 1px 0; border-color:#B5B5B5; }
+.reigt sanp{line-height: 148px; text-align: center; line-height: 50px; float: left; padding-left: 20px; padding-top: 10px;}
+.reigt p{line-height: 148px; text-align: center; line-height: 50px;text-align: left; padding-left: 20px; padding-top: 10px; margin: 0 auto;}
